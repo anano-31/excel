@@ -1,11 +1,15 @@
 # Phase 1 / ex02 — IF and Nested IF
+
 ## Objective
+
 Use logic formulas to classify outcomes, assign grades, and combine conditions.
 
 ## The Tools
+
 =IF(condition,true,false), nested IF, =AND(), =OR()
 
 ## Your Tasks
+
 1. Return Pass if score is 60 or above, otherwise Fail.
 2. Assign letter grades: A for 90+, B for 80+, C for 70+, D for 60+, otherwise F.
 3. Return Eligible for bonus credit if score is at least 80 and attendance is at least 90%.
