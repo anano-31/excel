@@ -6,7 +6,7 @@ Use logic formulas to classify outcomes, assign grades, and combine conditions.
 
 ## The Tools
 
-=IF(condition,true,false), nested IF, =AND(), =OR()
+=IF(condition,true,false), nested IF, =AND(), =OR(), IFS()
 
 ## Your Tasks
 
